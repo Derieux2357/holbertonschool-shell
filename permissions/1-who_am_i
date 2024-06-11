@@ -1,2 +1,2 @@
 #!/bin/bash
-su derieuxwesley
+echo "$USER"
